@@ -1,8 +1,10 @@
 #copyright {
     position: fixed;
-    bottom: 0;
-    right: 1px;
+    bottom: 5px;
+    right: 5px;
     color: var(--main-text-color);
+
+    cursor: pointer;
 }
 
 
