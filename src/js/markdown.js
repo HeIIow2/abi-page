@@ -36,11 +36,18 @@ function addTOC(header) {
         return;
     }
 
-    header.id = toc_index.toString();
+    console.log(header)
+    console.log(header.textContent)
+
+    let id_str = header.textContent;
+    id_str = id_str.replace(" ", "-");
+    id_str = id_str.toLowerCase();
+
+    header.id = id_str;
 
     let newPoint = document.createElement("li");
     let newAnchor = document.createElement("a");
-    newAnchor.href = "#" + header.id;
+    newAnchor.href = "#" + id_str;
     newAnchor.text = toc_index.toString() + ". " + header.textContent;
 
     newPoint.appendChild(newAnchor);
