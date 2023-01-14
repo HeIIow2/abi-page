@@ -22,6 +22,8 @@
 
     --header-padding: 10px;
     --border-width: 1px;
+
+    --roundness: 20px
 }
 
 * {box-sizing: border-box;}
@@ -44,6 +46,8 @@ body {
 .text {
     background-color: var(--bg-1dp);
 
+    border-bottom-left-radius: var(--roundness);
+    border-top-left-radius: var(--roundness);
     position: sticky;
     margin-top: var(--text-distance);
 
@@ -94,6 +98,8 @@ a:hover {
     .text {
         margin-right: auto;
         width: 85%;
+
+        border-radius: var(--roundness);
     }
 
     .third {
@@ -111,6 +117,7 @@ a:hover {
 @media only screen and (max-width: 600px) {
     .text {
         width: 100%;
+        border-radius: 0;
     }
 
     .textbox img {
