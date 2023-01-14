@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d993e10b-dab5-498d-8cd5-bab1f1f473c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/propaganda_minister.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/misc.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/misc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathe-algebra.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathe-algebra.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathe-analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathe-analysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathe-stochastik.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathe-stochastik.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/md-preset.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/md-preset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/physik-wellen.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/physik-wellen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672327953797</updated>
       <workItem from="1672327955004" duration="23139000" />
-      <workItem from="1673710739662" duration="7727000" />
+      <workItem from="1673710739662" duration="8358000" />
     </task>
     <servers />
   </component>
