@@ -1,4 +1,4 @@
-import {setCookie, getCookie} from 'https://ln.topdf.de/web_framework/js/cookies.js';
+import {setCookie, getCookie} from './cookies.js';
 
 
 const colors = {
@@ -11,11 +11,11 @@ const colors = {
     "--main-text-color": ["#fff", "#000"],
     "--secondary-text-color": ["#aaa", "#333"],
 
-    "--accent-color": ["#ffacf6", "#1359ff"],
-    "--secondary-accent-color": ["#77a1fd", "#ff20eb"],
-    "--shadow-1dp": ["0 0 10px black", "0 0 0 2px var(--accent-color)"],
-    "--shadow-2dp": ["0 0 20px black", "0 0 0 2px var(--accent-color)"],
-    "--shadow-small": ["0 0 3px black", "0 0 0 1px var(--accent-color)"],
+    "--accent-color": ["#ffacf6", "#1f315b"],
+    "--secondary-accent-color": ["#77a1fd", "#1d561e"],
+    "--shadow-1dp": ["0 0 10px black", "0 0 0 2px var(--accent-color), 0 0 10px black"],
+    "--shadow-2dp": ["0 0 20px black", "0 0 0 2px var(--accent-color), 0 0 20px black"],
+    "--shadow-small": ["0 0 3px black", "0 0 0 1px var(--accent-color), 0 0 3px black"],
     "--negation": ["invert(1)", "None"],
 }
 
