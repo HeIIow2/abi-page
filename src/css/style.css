@@ -63,7 +63,7 @@ h1 {
 h2 {
     border-width: 0;
     border-style: solid;
-    border-top-width: 1.5px;
+    border-top-width: 0;
     border-top-color: var(--secondary-accent-color);
 }
 
