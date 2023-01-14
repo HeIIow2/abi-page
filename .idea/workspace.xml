@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d993e10b-dab5-498d-8cd5-bab1f1f473c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/assets/assets/gay_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/assets/assets/integral_example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/assets/assets/integral_example_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/assets/assets/not_so_gay_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/assets/gay_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/assets/integral_example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/assets/integral_example_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/assets/not_so_gay_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/mathe/algebra.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/mathe/analysis.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/mathe/assets/integral_example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/mathe/assets/integral_example_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/mathe/stochastik.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/physik/assets/gay_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/physik/assets/not_so_gay_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/physik/wellen.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/update.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/markdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/markdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/mathe/analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/mathe/analysis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/physik/wellen.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/physik/wellen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672327953797</updated>
       <workItem from="1672327955004" duration="23139000" />
-      <workItem from="1673710739662" duration="3741000" />
+      <workItem from="1673710739662" duration="4430000" />
     </task>
     <servers />
   </component>

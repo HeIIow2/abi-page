@@ -107,7 +107,7 @@ $$\delta = (2k - 1) \cdot \frac{1}{2} \lambda \qquad k \in \mathbb{N}$$
 
 ## Gitter
 
-> Ein Gitter ist ein Mehrfachspalt mit bestenfalls unendlich Spalten. $n = \infin$
+> Ein Gitter ist ein Mehrfachspalt mit bestenfalls unendlich Spalten. $n = \infty$
 
 Die Gitterkonstante $g = [1m]$ beschreibt den Abstand zwischen den Spalten des Gitters. 
 

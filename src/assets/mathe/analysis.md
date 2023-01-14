@@ -148,10 +148,10 @@ $$x_1 = \sqrt{u_1} \approx 1,46 \qquad x_2 = \sqrt{u_2} \approx 0,34$$
 
 Hier betrachtet man Lediglich den Term mit dem höchsen Exponent:
 
-$$\lim_{x \rightarrow -\infin} + x^2 = + \infin \qquad \lim_{x \rightarrow +\infin} + x^2 = + \infin$$
-$$\lim_{x \rightarrow -\infin} - x^2 = - \infin \qquad \lim_{x \rightarrow +\infin} - x^2 = - \infin$$
-$$\lim_{x \rightarrow -\infin} + x^3 = - \infin \qquad \lim_{x \rightarrow +\infin} + x^3 = + \infin$$
-$$\lim_{x \rightarrow -\infin} - x^3 = + \infin \qquad \lim_{x \rightarrow +\infin} - x^2 = - \infin$$
+$$\lim_{x \rightarrow -\infty} + x^2 = + \infty \qquad \lim_{x \rightarrow +\infty} + x^2 = + \infty$$
+$$\lim_{x \rightarrow -\infty} - x^2 = - \infty \qquad \lim_{x \rightarrow +\infty} - x^2 = - \infty$$
+$$\lim_{x \rightarrow -\infty} + x^3 = - \infty \qquad \lim_{x \rightarrow +\infty} + x^3 = + \infty$$
+$$\lim_{x \rightarrow -\infty} - x^3 = + \infty \qquad \lim_{x \rightarrow +\infty} - x^2 = - \infty$$
 
 ## Symmetrie verhalten
 
@@ -232,7 +232,7 @@ $$f(x) = (u(x))^n \qquad F(x) = \frac{1}{(n+1) \cdot u'(x)} \cdot (u(x))^{n + 1}
 
 # Integrale
 
-![Beispiel Graph](./assets/integral_example_small.png)
+![Beispiel Graph](assets/integral_example_small.png)
 
 Ein Integral berechnet den Flächeninhalt unter einer Funktion.  
 Die größere Zahl steht bei einem Integral *meist* oben: $n > k$. 
