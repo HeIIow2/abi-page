@@ -162,9 +162,9 @@ Extrempunkte sind alle Hoch/Tiefpunkte einer Funktion. Folgendes ist bei einem E
 
 Bedingung | Art d. Punktes
 ---|---
-$f''(x) < 0$ | Hochpunkt
+$f''(x) \lt 0$ | Hochpunkt
 $f''(x) = 0$ | Sattelpunkt
-$f''(x) > 0$ | Tiefpunkt
+$f''(x) \gt 0$ | Tiefpunkt
 
 ## Monotonieverhalten
 
@@ -235,7 +235,7 @@ $$f(x) = (u(x))^n \qquad F(x) = \frac{1}{(n+1) \cdot u'(x)} \cdot (u(x))^{n + 1}
 ![Beispiel Graph](assets/integral_example_small.png)
 
 Ein Integral berechnet den Flächeninhalt unter einer Funktion.  
-Die größere Zahl steht bei einem Integral *meist* oben: $n > k$. 
+Die größere Zahl steht bei einem Integral *meist* oben: $n \gt k$. 
 
 ## Funktion und x-Achse
 
