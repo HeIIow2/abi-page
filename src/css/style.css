@@ -1,0 +1,127 @@
+:root {
+    --text-distance: 30px;
+    --small-padding: 1px;
+
+    --bg-color: #121212;
+    --bg-1dp: #1e1e1e;
+    --bg-2dp: #222222;
+    --bg-3dp: rgba(255, 255, 255, 0.08);
+    --bg-4dp: rgba(255, 255, 255, 0.09);
+
+    --main-text-color: #fff;
+    --secondary-text-color: #aaa;
+
+    --accent-color: #ffacf6;
+    --secondary-accent-color: #77a1fd;
+
+    --shadow-1dp: 0 0 10px black;
+    --shadow-2dp: 0 0 20px black;
+
+    --shadow-small: 0 0 3px black;
+    --negation: invert(1);
+
+    --header-padding: 10px;
+    --border-width: 1px;
+}
+
+* {box-sizing: border-box;}
+*:target{ padding-top: 120px;margin-top: -120px}
+
+html, body {
+    margin: 0;
+    padding: 0;
+
+    background-color: var(--bg-color);
+    color: var(--main-text-color);
+
+    font-family: Sans-Serif, serif;
+}
+
+body {
+    padding-top: 60px;
+}
+
+.text {
+    background-color: var(--bg-1dp);
+
+    position: sticky;
+    margin-top: var(--text-distance);
+
+    max-width: 100%;
+    width: calc(80% - var(--text-distance));
+    margin-left: auto;
+    margin-right: 0;
+}
+
+h1 {
+    border-width: 0;
+    border-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color: var(--accent-color);
+}
+
+h2 {
+    border-width: 0;
+    border-style: solid;
+    border-top-width: 1.5px;
+    border-top-color: var(--secondary-accent-color);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+td, th {
+    border-width: 1px;
+    border-style: solid;
+
+    border-color: var(--accent-color);
+}
+
+td {
+    padding-left: 20px;
+}
+
+a {
+    color: var(--accent-color);
+}
+a:hover {
+    color: var(--secondary-accent-color);
+}
+
+
+@media only screen and (max-width: 800px) {
+    .text {
+        margin-right: auto;
+        width: 85%;
+    }
+
+    .third {
+        width: 50% !important;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .text {
+        width: 90%;
+    }
+}
+
+/* Handys */
+@media only screen and (max-width: 600px) {
+    .text {
+        width: 100%;
+    }
+
+    .textbox img {
+        width: 100% !important;
+    }
+
+    .textbox .half {
+        width: 100% !important;
+    }
+
+    .textbox div {
+        flex-direction: column;
+    }
+}

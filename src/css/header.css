@@ -1,0 +1,109 @@
+
+header {
+    z-index: 100;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+
+    background-color: var(--bg-2dp);
+    box-shadow: var(--shadow-2dp);
+
+    align-items: center;
+    justify-content: center;
+
+    transition-property: transform;
+    transition-duration: 0.2s;
+
+    height: 60px;
+}
+
+header a, header h1, header button, #dropdown > p {
+    display: block;
+
+    margin-top: var(--header-padding);
+    margin-bottom: var(--header-padding);
+
+    width: auto;
+    height: calc(100% - 2 * var(--header-padding));
+    font-size: 100%;
+
+    text-align: center;
+    padding: 10px;
+
+
+    background-color: var(--bg-2dp);
+    color: var(--main-text-color);
+    border: 2px solid var(--accent-color);
+
+    cursor: pointer;
+    transition-property: background-color, color, border;
+    transition-duration: 0.01s;
+
+    overflow: visible;
+
+    -webkit-transition: 0.05s ease-in-out;
+    -moz-transition: 0.05s ease-in-out;
+    -o-transition: 0.05s ease-in-out;
+    transition: 0.05s ease-in-out;
+}
+header a:hover, header h1:hover, header button:hover, header div.icon:hover {
+    color: var(--accent-color);
+    background-color: var(--bg-1dp);
+
+    transform: translateY(-3px);
+}
+
+header a:active, header h1:active, header button:active, header div.icon:active {
+    transform: translateY(6px);
+}
+
+header > a, header > h1, header > button {
+    margin-left: var(--header-padding);
+    float: left;
+}
+
+#dropdown {
+    height: 100%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+#dropdown p {
+    margin-right: var(--header-padding);
+    float: right;
+    display: none;
+}
+#dropdown a, #dropdown button {
+    margin-right: var(--header-padding);
+    display: block;
+    float: right;
+
+    width: auto;
+}
+
+/* Handys */
+@media only screen and (max-width: 600px) {
+    #dropdown {
+        flex-direction: column;
+        align-items: flex-end;
+        height: auto;
+
+        transition: all 0.2s;
+        transition-delay: 300ms;
+    }
+
+    #dropdown p {
+        display: block;
+    }
+    #dropdown a, #dropdown button {
+        display: none;
+    }
+
+    #dropdown:hover a, #dropdown:active a, #dropdown:focus a, #dropdown:hover button, #dropdown:active button {
+        margin-top: 0;
+        display: block !important;
+    }
+}

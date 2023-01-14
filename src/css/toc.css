@@ -1,0 +1,70 @@
+#toc {
+    position: fixed;
+
+    background-color: var(--bg-2dp);
+    box-shadow: var(--shadow-2dp);
+    width: 20%;
+    padding: 10px;
+
+    height: 100%;
+    margin-top: var(--text-distance);
+}
+#toc h1 {
+    width: auto;
+}
+
+#toc ul {
+    width: auto;
+
+    padding-left: 18%;
+}
+
+#toc > li {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#toc li {
+    list-style-type: none;
+
+    padding: 0 0 10px;
+    margin: 0;
+}
+
+#toc_list {
+    padding-left: 0 !important;
+}
+
+#toc_list li {
+    padding-bottom: 10px !important;
+}
+
+@media only screen and (max-width: 800px) {
+    #toc {
+        position: sticky;
+        margin-top: var(--text-distance);
+
+        max-width: 100%;
+        margin-left: auto;
+
+        margin-right: auto;
+        width: 85%;
+    }
+
+    .third {
+        width: 50% !important;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    #toc {
+        width: 90%;
+    }
+}
+
+/* Handys */
+@media only screen and (max-width: 600px) {
+    #toc {
+        width: 100%;
+    }
+}

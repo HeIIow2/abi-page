@@ -1,0 +1,162 @@
+.text {
+    background-color: var(--bg-1dp);
+
+    padding: 20px;
+
+    word-wrap    : break-word;
+    overflow-wrap: break-word;
+    box-shadow: var(--shadow-1dp);
+
+    overflow:auto;
+
+    margin-bottom: 50px;
+}
+
+.text h1 {
+    color: var(--accent-color);
+}
+
+.text h2 {
+    color: var(--secondary-accent-color);
+}
+
+.text h3 {
+    color: var(--secondary-text-color);
+}
+
+.text h4 {
+    color: var(--secondary-text-color);
+    font-style: italic;
+}
+
+.text p {
+    color: var(--main-text-color);
+    float: none;
+}
+
+.text pre {
+    float: none;
+}
+
+.text ul {
+    color: var(--main-text-color);
+}
+.text ol {
+    color: var(--main-text-color);
+}
+
+.text .elevated {
+    color: var(--secondary-accent-color);
+}
+
+.text .secondary {
+    color: var(--secondary-text-color);
+}
+
+.text img {
+    position: relative;
+
+    float: right;
+
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    top: 0;
+
+    width: 50%;
+}
+
+.text pre {
+    background-color: var(--bg-2dp);
+
+    padding: 20px;
+    width: auto;
+
+    max-width: 100vw;
+
+    word-wrap    : break-word;
+    overflow-wrap: break-word;
+    box-shadow: var(--shadow-small);
+
+    overflow:auto
+}
+
+.text code {
+    background-color: var(--bg-2dp);
+
+    width: auto;
+
+    max-width: 100vw;
+
+    padding-left: var(--small-padding);
+    padding-right: var(--small-padding);
+
+    margin-top: var(--small-padding);
+    margin-bottom: var(--small-padding);
+
+    word-wrap    : break-word;
+    overflow-wrap: break-word;
+    box-shadow: var(--shadow-small);
+
+    overflow:auto
+}
+
+.text hr {
+    margin-top: var(--small-padding);
+    margin-bottom: var(--small-padding);
+
+    border-color: var(--accent-color);
+}
+
+.text .third {
+    width: 33%;
+}
+
+.text .half {
+    width: 50%;
+}
+
+.text .max {
+    width: 100%;
+}
+
+.text div {
+    display: flex;
+}
+
+.text div p {
+    flex-grow: 2;
+}
+.text div pre {
+    flex-grow: 2;
+}
+
+.negated {
+    -webkit-filter: var(--negation);
+    filter: var(--negation);
+}
+
+form {
+    display: flex;
+    flex-direction: row;
+}
+
+form * {
+    border-style: solid;
+    border-width: var(--border-width) !important;
+    border-color: var(--accent-color);
+    background: var(--bg-3dp);
+    color: var(--main-text-color);
+    box-shadow: none;
+    outline: none;
+    flex-grow: 2;
+}
+
+form *:focus {
+    box-shadow: 0 0 var(--border-width) var(--border-width) var(--accent-color);
+}
+
+
+form .grow {
+    flex-grow: 4;
+}
