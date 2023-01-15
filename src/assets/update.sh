@@ -20,8 +20,8 @@ cd ..
 cp -a ./Deutsch/assets/. ./assets/
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o Deutsch/expressionismus.pdf Deutsch/expressionismus.md
 
-cp ./Deutsch/expressionismus.md /media/lars/Volume/Projekts/school/abi_page/assets/deutsch/
-cp ./Deutsch/expressionismus.pdf /media/lars/Volume/Projekts/school/abi_page/assets/deutsch/
+cp ./Deutsch/expressionismus.md /media/lars/Volume/Projekts/school/abi_page/src/assets/deutsch/expressionismus.md
+cp ./Deutsch/expressionismus.pdf /media/lars/Volume/Projekts/school/abi_page/src/assets/deutsch/expressionismus.pdf
 
 cd /media/lars/Volume/Projekts/school/abi_page
 git add .
