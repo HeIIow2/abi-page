@@ -162,7 +162,7 @@ Extrempunkte sind alle Hoch/Tiefpunkte einer Funktion. Folgendes ist bei einem E
 
 Bedingung | Art d. Punktes
 ---|---
-$f''(x) < 0$ | Hochpunkt
+$f''(x) \lt 0$ | Hochpunkt
 $f''(x) = 0$ | Sattelpunkt
 $f''(x) \gt 0$ | Tiefpunkt
 
