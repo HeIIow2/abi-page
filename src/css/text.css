@@ -1,5 +1,5 @@
 .text {
-    background-color: var(--bg-1dp);
+    background-color: var(--bg-1dp-trans);
 
     padding: 20px;
 

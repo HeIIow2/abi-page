@@ -2,6 +2,11 @@
     --text-distance: 30px;
     --small-padding: 1px;
 
+    --bg : rgb(81,227,255);
+    background: rgb(255, 255, 255) linear-gradient(21deg, rgba(81,227,255,0.4640056706276261) 0%, rgba(255,148,253,0.5592437658657212) 45%, rgba(255,255,255,0.5844538498993348) 76%);
+    --bg-1dp-trans: rgba(255, 255, 255, 50%);
+    --bg-2dp-trans: rgba(255, 255, 255, 70%);
+
     --bg-color: #121212;
     --bg-1dp: #1e1e1e;
     --bg-2dp: #222222;
@@ -37,6 +42,14 @@ html, body {
     color: var(--main-text-color);
 
     font-family: Sans-Serif, serif;
+    min-height: 100vh;
+}
+
+#background {
+    background: var(--bg);
+    position: fixed;
+    height: 100vh;
+    width: 100%;
 }
 
 body {
@@ -44,7 +57,7 @@ body {
 }
 
 .text {
-    background-color: var(--bg-1dp);
+    background-color: var(--bg-1dp-trans);
 
     border-bottom-left-radius: var(--roundness);
     border-top-left-radius: var(--roundness);

@@ -1,7 +1,7 @@
 #toc {
     position: fixed;
 
-    background-color: var(--bg-2dp);
+    background-color: var(--bg-2dp-trans);
     box-shadow: var(--shadow-2dp);
     width: 20%;
     padding: 10px;

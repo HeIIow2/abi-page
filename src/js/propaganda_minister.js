@@ -6,7 +6,8 @@ const propagandaMessages = [
     "🏳️‍🌈🏳️‍🌈 Bi rights are human rights. ( ๑‾̀◡‾́)(‾̀◡‾́ ๑)",
     "No shame in sucking dick as boy! (≖‿≖)",
     "🏳️‍🌈🏳️‍🌈 gay rights are human rights 🏳️‍🌈🏳️‍🌈",
-    "🏳️‍🌈🏳️‍🌈 lesbian rights are human rights 🏳️‍🌈🏳️‍🌈"
+    "🏳️‍🌈🏳️‍🌈 lesbian rights are human rights 🏳️‍🌈🏳️‍🌈",
+    "666 > 88"
 ]
 
 const copyrightElem = document.getElementById("copyright");
