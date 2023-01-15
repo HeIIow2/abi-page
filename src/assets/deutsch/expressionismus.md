@@ -1,3 +1,4 @@
+
 [Wikipedia - Expressionismus](https://de.wikipedia.org/wiki/Expressionismus_(Literatur))
 
 > **NACHT-SCHLUSS BEI BOLS**
@@ -52,7 +53,7 @@ Der *bisherige Zeitgeist* in der Kunst war es, sich auf die Schönheit zu fokusi
 
 Das liegt unter andem an der [angespannten politischen Stimmung](#historischer-hintergrund).
 
-# Ich-zentriert
+## Ich-zentriert
 
 Die Werke sind ich zentriert, es wird Fokus auf das innere Seelenleben gelegt, das nach ausen gekehrt wird.
 
@@ -79,7 +80,7 @@ Symbole und Metaphern bekamen einen ganz anderen Wert. Sie waren überall.
 
 # Einflüsse im Black metal
 
-# Lifelover - Erotik - I Love (To Hurt) You
+## Lifelover - Erotik - I Love (To Hurt) You
 
 ![Lifelover - Erotik](assets/lifelover-erotik.jpg)
 
@@ -89,7 +90,7 @@ Symbole und Metaphern bekamen einen ganz anderen Wert. Sie waren überall.
 >
 > I love you
 
-# Psychonaut 4 - Beautyfall - Sana Sana Sana, Cura Cura Cura
+## Psychonaut 4 - Beautyfall - Sana Sana Sana, Cura Cura Cura
 
 ![Psychonaut4 - Beautyfall](assets/psychonaut4-sanasanasanacuracuracura.jpg)
 
