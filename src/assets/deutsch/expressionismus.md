@@ -1,9 +1,3 @@
-# Notitzen
-
-- [Der Expressionismus wird als Empörung des Gefühls gegen den kalten Mechanismus verstanden](https://www.kunst-zeiten.de/Timeline-1911-1920)
-
-# Expressionismus
-
 [Wikipedia - Expressionismus](https://de.wikipedia.org/wiki/Expressionismus_(Literatur))
 
 > **NACHT-SCHLUSS BEI BOLS**
@@ -25,7 +19,7 @@
 
  ~ *Kurt Hiller*
 
-## Inhalt
+# Inhalt
 
 *Ich werde nicht bzw. kaum auf den Frühexpressionismus eingehen*
 
@@ -34,7 +28,7 @@
  - Die Sprache
  - wichtigste Vertreter
 
-## Historischer Hintergrund
+# Historischer Hintergrund
 
 $1905 - 1925$
 
@@ -48,7 +42,7 @@ $1905 - 1925$
   - Das Leid der Industrialisierung
   - Das schwinden des Individuums in Großstädten
 
-## Das Konzept
+# Das Konzept
 
  *[Quelle: Themen der Epoche](https://literaturhandbuch.de/epochen-expressionismus-1905-1925/)*
 
@@ -58,7 +52,7 @@ Der *bisherige Zeitgeist* in der Kunst war es, sich auf die Schönheit zu fokusi
 
 Das liegt unter andem an der [angespannten politischen Stimmung](#historischer-hintergrund).
 
-### Ich-zentriert
+# Ich-zentriert
 
 Die Werke sind ich zentriert, es wird Fokus auf das innere Seelenleben gelegt, das nach ausen gekehrt wird.
 
@@ -66,7 +60,7 @@ Die Werke sind ich zentriert, es wird Fokus auf das innere Seelenleben gelegt, d
 
 Häufig wird das wargenommene Leid der Großstädte aus der ich perspektive wiedergegeben.
 
-## Die Sprache
+# Die Sprache
 
 Rhythmen, Reime und Grammatik sind alles Wege Lyrische Werke *schön* klingen zu lassen.  
 Der Expressionismus wollte dies nicht. Selten findet man Rhythmen oder Reime. Häufig findet man *inkorrekte* Grammatik.
@@ -76,16 +70,16 @@ Sätze wurden zerhackt. Genauso wie in diesem Abschnitt. Dies gibt einem ein Gef
 Es ist sehr schwehr Gefühle, Leid zu beschreiben. Deshalb nutzte man sehr häufig **Farbsymbolik**, **Neologismen** und Kontraste.  
 Symbole und Metaphern bekamen einen ganz anderen Wert. Sie waren überall.
 
-## Wichtige Vertreter
+# Wichtige Vertreter
  - Franz Kafka
  - Kurt Hiller
  - George Heym
  - Georg Kaiser
  - Else Lasker-Schüler
 
-## Einflüsse im Black metal
+# Einflüsse im Black metal
 
-### Lifelover - Erotik - I Love (To Hurt) You
+# Lifelover - Erotik - I Love (To Hurt) You
 
 ![Lifelover - Erotik](assets/lifelover-erotik.jpg)
 
@@ -95,7 +89,7 @@ Symbole und Metaphern bekamen einen ganz anderen Wert. Sie waren überall.
 >
 > I love you
 
-### Psychonaut 4 - Beautyfall - Sana Sana Sana, Cura Cura Cura
+# Psychonaut 4 - Beautyfall - Sana Sana Sana, Cura Cura Cura
 
 ![Psychonaut4 - Beautyfall](assets/psychonaut4-sanasanasanacuracuracura.jpg)
 
@@ -104,7 +98,7 @@ Symbole und Metaphern bekamen einen ganz anderen Wert. Sie waren überall.
 > Anxiety rolls in me like a wave  
 > A wave of desire to do something
 
-## Bildquellen
+# Bildquellen
 
 https://www.evangelisch.de/inhalte/148067/06-11-2018/erster-weltkrieg-der-erste-totale-krieg
 
