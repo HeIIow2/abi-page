@@ -22,6 +22,8 @@ pandoc --pdf-engine=xelatex -V geometry:margin=1in -o Deutsch/expressionismus.pd
 
 cp ./Deutsch/expressionismus.md /media/lars/Volume/Projekts/school/abi_page/src/assets/deutsch/expressionismus.md
 cp ./Deutsch/expressionismus.pdf /media/lars/Volume/Projekts/school/abi_page/src/assets/deutsch/expressionismus.pdf
+cp -a ./*/assets/ /media/lars/Volume/Projekts/school/abi_page/src/assets/
+
 
 cd /media/lars/Volume/Projekts/school/abi_page
 git add .
