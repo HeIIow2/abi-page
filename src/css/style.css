@@ -23,11 +23,12 @@
 
     --shadow-small: 0 0 3px black;
     --negation: invert(1);
+    --negative-negation: None;
 
     --header-padding: 10px;
     --border-width: 1px;
 
-    --roundness: 20px
+    --roundness: 20px;
 }
 
 * {box-sizing: border-box;}
@@ -49,6 +50,14 @@ html, body {
     position: fixed;
     height: 100vh;
     width: 100%;
+
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center; 
+}
+
+.dark {
+    filter: var(--negative-negation);
 }
 
 body {
