@@ -2,10 +2,9 @@
     --text-distance: 30px;
     --small-padding: 1px;
 
-    --bg : rgb(81,227,255);
-    background: rgb(255, 255, 255) linear-gradient(21deg, rgba(81,227,255,0.4640056706276261) 0%, rgba(255,148,253,0.5592437658657212) 45%, rgba(255,255,255,0.5844538498993348) 76%);
-    --bg-1dp-trans: rgba(255, 255, 255, 50%);
-    --bg-2dp-trans: rgba(255, 255, 255, 70%);
+    --bg : rgb(18, 18, 18) linear-gradient(150deg, rgba(43,124,139,1) 0%, rgba(115,65,114,1) 37%, rgba(115,65,114,1) 55%, rgba(41,41,41,0) 91%);
+    --bg-1dp-trans: rgba(30, 30, 30, 80%);
+    --bg-2dp-trans: rgba(34, 34, 34, 90%);
 
     --bg-color: #121212;
     --bg-1dp: #1e1e1e;
