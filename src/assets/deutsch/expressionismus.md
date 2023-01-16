@@ -1,7 +1,7 @@
 
-[Wikipedia - Expressionismus](https://de.wikipedia.org/wiki/Expressionismus_(Literatur))
 
-> **NACHT-SCHLUSS BEI BOLS**
+
+# NACHT-SCHLUSS BEI BOLS
 >
 > Noch starrt die schwarze Nacht, mit  Blatternarben,
 > Die Sterne heißen. Laßt uns weiter thronen,
@@ -21,6 +21,8 @@
  ~ *Kurt Hiller*
 
 # Inhalt
+
+[Wikipedia - Expressionismus](https://de.wikipedia.org/wiki/Expressionismus_(Literatur))
 
 *Ich werde nicht bzw. kaum auf den Frühexpressionismus eingehen*
 
