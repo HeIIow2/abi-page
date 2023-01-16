@@ -23,15 +23,14 @@ const colors = {
     "--shadow-2dp": ["0 0 20px black", "0 0 20px black"],
     "--shadow-small": ["0 0 3px black", "0 0 0 1px var(--accent-color), 0 0 3px black"],
     "--negation": ["invert(1)", "None"],
+    "--negative-negation": ["None", "invert(1)"]
 }
 
 const properties = Object.keys(colors);
 
 function set_theme(theme_) {
     for (var i=0; i<properties.length; i++) {
-        const propertie = properties[i]
-        console.log(propertie);
-        console.log(colors[propertie][theme_]);
+        const propertie = properties[i];
         document.documentElement.style.setProperty(propertie, colors[propertie][theme_]);
     }
 }
