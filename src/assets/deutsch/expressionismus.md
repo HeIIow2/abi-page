@@ -3,20 +3,20 @@
 
 # NACHT-SCHLUSS BEI BOLS
 >
-> Noch starrt die schwarze Nacht, mit Blatternarben,
-> Die Sterne heißen. Laßt uns weiter thronen,
-> Rosenlikör auf magischen Balkonen
-> Durch Halme schlürfen, und in süßen Farben
+> Noch starrt die schwarze Nacht, mit Blatternarben,  
+> Die Sterne heißen. Laßt uns weiter thronen,  
+> Rosenlikör auf magischen Balkonen  
+> Durch Halme schlürfen, und in süßen Farben  
 > 
-> Traumtrunken schwimmen: Deine Fliederweste,
-> Du fahler Maler, küßt mich sehr; Bohême-Girl,
-> Dein Shawl glänzt ganz zitronen; du, System-Earl,
-> Trägst statt des Shlips zerwalkte Himbeerreste.
+> Traumtrunken schwimmen: Deine Fliederweste,  
+> Du fahler Maler, küßt mich sehr; Bohême-Girl,  
+> Dein Shawl glänzt ganz zitronen; du, System-Earl,  
+> Trägst statt des Shlips zerwalkte Himbeerreste.  
 > 
-> Ein seliger Ekel zeigt mir Ewiges…
-> O schaut aus dem verdreckten Licht der Birnen:
-> Es wehen Hauche naß von kühlen Firnen,
-> Am Stahl des Himmels zuckte Möwiges.
+> Ein seliger Ekel zeigt mir Ewiges…  
+> O schaut aus dem verdreckten Licht der Birnen:  
+> Es wehen Hauche naß von kühlen Firnen,  
+> Am Stahl des Himmels zuckte Möwiges.  
 
  ~ Kurt Hiller
 
