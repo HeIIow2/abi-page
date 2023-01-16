@@ -133,15 +133,15 @@ a:hover {
         border-radius: 0;
     }
 
-    .textbox img {
+    .text img {
         width: 100% !important;
     }
 
-    .textbox .half {
+    .text .half {
         width: 100% !important;
     }
 
-    .textbox div {
+    .text div {
         flex-direction: column;
     }
 }
