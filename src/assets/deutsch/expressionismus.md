@@ -3,7 +3,7 @@
 
 # NACHT-SCHLUSS BEI BOLS
 >
-> Noch starrt die schwarze Nacht, mit  Blatternarben,
+> Noch starrt die schwarze Nacht, mit Blatternarben,
 > Die Sterne heißen. Laßt uns weiter thronen,
 > Rosenlikör auf magischen Balkonen
 > Durch Halme schlürfen, und in süßen Farben
@@ -18,7 +18,7 @@
 > Es wehen Hauche naß von kühlen Firnen,
 > Am Stahl des Himmels zuckte Möwiges.
 
- ~ *Kurt Hiller*
+ ~ Kurt Hiller
 
 # Inhalt
 
