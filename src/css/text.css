@@ -161,3 +161,29 @@ form *:focus {
 form .grow {
     flex-grow: 4;
 }
+
+blockquote {
+    width: auto !important;
+    display: inline-block;
+
+    position: relative;
+    margin-left: 20px;
+
+    font-style: italic;
+}
+
+blockquote::before {
+    content: " ";
+    position:absolute;
+
+    transform: translateX(-15px);
+
+    width: calc(100% + 30px);
+    background-color: var(--bg-1dp-trans);
+    height: 100%;
+    box-shadow: inset 5px 0 0 0 var(--secondary-accent-color);
+
+    opacity: .5;
+}
+
+

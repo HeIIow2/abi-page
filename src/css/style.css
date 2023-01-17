@@ -142,6 +142,8 @@ a:hover {
     }
 
     .text img {
+        margin: 0 !important;
+        float: none !important;
         width: 100% !important;
     }
 

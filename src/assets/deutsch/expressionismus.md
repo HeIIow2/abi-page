@@ -1,26 +1,28 @@
 
-[Wikipedia - Expressionismus](https://de.wikipedia.org/wiki/Expressionismus_(Literatur))
 
-> **NACHT-SCHLUSS BEI BOLS**
+
+# NACHT-SCHLUSS BEI BOLS
 >
-> Noch starrt die schwarze Nacht, mit  Blatternarben,
-> Die Sterne heißen. Laßt uns weiter thronen,
-> Rosenlikör auf magischen Balkonen
-> Durch Halme schlürfen, und in süßen Farben
+> Noch starrt die schwarze Nacht, mit Blatternarben,  
+> Die Sterne heißen. Laßt uns weiter thronen,  
+> Rosenlikör auf magischen Balkonen  
+> Durch Halme schlürfen, und in süßen Farben  
 > 
-> Traumtrunken schwimmen: Deine Fliederweste,
-> Du fahler Maler, küßt mich sehr; Bohême-Girl,
-> Dein Shawl glänzt ganz zitronen; du, System-Earl,
-> Trägst statt des Shlips zerwalkte Himbeerreste.
+> Traumtrunken schwimmen: Deine Fliederweste,  
+> Du fahler Maler, küßt mich sehr; Bohême-Girl,  
+> Dein Shawl glänzt ganz zitronen; du, System-Earl,  
+> Trägst statt des Shlips zerwalkte Himbeerreste.  
 > 
-> Ein seliger Ekel zeigt mir Ewiges…
-> O schaut aus dem verdreckten Licht der Birnen:
-> Es wehen Hauche naß von kühlen Firnen,
-> Am Stahl des Himmels zuckte Möwiges.
+> Ein seliger Ekel zeigt mir Ewiges…  
+> O schaut aus dem verdreckten Licht der Birnen:  
+> Es wehen Hauche naß von kühlen Firnen,  
+> Am Stahl des Himmels zuckte Möwiges.  
 
- ~ *Kurt Hiller*
+ ~ Kurt Hiller
 
 # Inhalt
+
+[Wikipedia - Expressionismus](https://de.wikipedia.org/wiki/Expressionismus_(Literatur))
 
 *Ich werde nicht bzw. kaum auf den Frühexpressionismus eingehen*
 
@@ -101,12 +103,8 @@ Symbole und Metaphern bekamen einen ganz anderen Wert. Sie waren überall.
 
 # Bildquellen
 
-https://www.evangelisch.de/inhalte/148067/06-11-2018/erster-weltkrieg-der-erste-totale-krieg
-
-https://mythoughtsbornfromfire.wordpress.com/2014/05/24/cronus-as-the-evil-one/
-
-https://www.metal-archives.com/albums/Happy_Days/Defeated_by_Life/214137
-
-https://www.metal-archives.com/albums/Lifelover/Erotik/141858
-
-https://www.metal-archives.com/albums/Psychonaut_4/Beautyfall_-_%E1%83%A1%E1%83%A3%E1%83%9A%E1%83%93%E1%83%90%E1%83%AA%E1%83%94%E1%83%9B%E1%83%90/874795
+ - [WW1](https://www.evangelisch.de/inhalte/148067/06-11-2018/erster-weltkrieg-der-erste-totale-krieg)
+ - [Cronus as the evil one](https://mythoughtsbornfromfire.wordpress.com/2014/05/24/cronus-as-the-evil-one/)
+ - [Happy Days - Defeated by Life](https://www.metal-archives.com/albums/Happy_Days/Defeated_by_Life/214137)
+ - [Lifelover - Erotik](https://www.metal-archives.com/albums/Lifelover/Erotik/141858)
+ - [Psychonaut 4 - Beautyfall](https://www.metal-archives.com/albums/Psychonaut_4/Beautyfall_-_%E1%83%A1%E1%83%A3%E1%83%9A%E1%83%93%E1%83%90%E1%83%AA%E1%83%94%E1%83%9B%E1%83%90/874795)
