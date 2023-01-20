@@ -29,3 +29,5 @@ $$P(X \ge k) = \sum_{l=k}^{n} \begin{pmatrix} n \\ k \end{pmatrix} \cdot p^l \cd
 ## maximal k oder weniger Treffer
 
 $$P(X \ge k) = \sum_{l=0}^{k} \begin{pmatrix} n \\ k \end{pmatrix} \cdot p^l \cdot (1-p)^{n-l}$$
+
+# Signifikanztests mit der Binominalverteilung
