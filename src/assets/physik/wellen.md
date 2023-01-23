@@ -18,6 +18,7 @@
 - [Diagramme zeichnen](#diagramme-zeichnen)
   - [$t$ - $s\_y$ - Diagramm an Ort $x\_0$](#t---s_y---diagramm-an-ort-x_0)
   - [$s\_x$ - $s\_y$ - Diagramm zum Zeitpunkt $t$](#s_x---s_y---diagramm-zum-zeitpunkt-t)
+- [Stehende Wellen](#stehende-wellen)
 
 # Terminologie
 
@@ -121,3 +122,7 @@ Um eine Momentbild des Wellenträgers zu einem festen Zeitpunkt $t$ zeichnen zu 
  2. Man ermittelt den Teil der Störung, der reflektiert wird (entspricht dem Teil rechts vom Ende des Wellenträgers).
  3. Bei einem losen Ende (kein Phasensprung, $\Delta \phi = 0$) wird der reflektierte Teil der Welle durch eine Achsenspiegelung am Ende des Wellenträgers eingezeichnet, und anschließend die resultierende Geschwindigkeit.
  4. Bei einem festen Ende (Phasensprung $\Delta \phi = \pi$) wird der reflektierte Teil durch eine Punktspiegelung am Ende des Wellenträgers eingezeichnet, und anschließend die resultierende Geschwindigkeit.
+
+# Stehende Wellen
+
+

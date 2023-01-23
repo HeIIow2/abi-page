@@ -12,3 +12,8 @@ Im Benzohl-Molekül befindet sich zwischen je $2C$ Atomen ein bindendes Elektron
 2. Beschreibe, worauf die besondere Stabilität des Benzolmolekühl zurückzuführen ist.
 3. recherchiere die Molkühlformel von `Toluol` und `Xylol`
 4. Zeichne alle möglichen mesomeren Grenzformen von `Toluol` und von den drei `Xylolisomeren`.
+
+# Hückel Regel
+
+Die Anzahl der delokalisierten Elektronen beträgt: 
+$$4n +2 (n = 0, 1,2…)$$

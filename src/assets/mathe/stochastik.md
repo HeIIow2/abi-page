@@ -1,3 +1,53 @@
+# Grundlagen und Begriffe
+
+## Zufallsexperiment
+
+Ein Zufallsexperiment ist etwas mit folgenden Eigenschaften:
+
+
+ - Die Durchführung ist genau festgelegt
+ - Die möglichen Ergebnisse sind vor der Durchführung bekannt
+ - Das Ergebnis kann nicht vorhergesagt werden
+
+Es gibt auch [verschiedene Stufen](#mehrstufiges-zufallsexperiment).
+
+## Ergebnissmenge
+
+Die Menge an unterschiedlichen Ergebnissen eines Zufall**sex**periment, nennt man **Ergebnissmenge** $|\Omega |$.
+
+Bei dem Wurf eines Würfels sieht diese Bespielsweise so aus:
+
+$$\Omega = \{1, 2, 3, 4, 5, 6\} \Rightarrow |\Omega | = 6$$
+
+## Mehrstufiges Zufallsexperiment
+
+Als Stufen kann man die Anzahl wie oft ein [Zufallsexperiment](#zufallsexperiment) durchgeführt wird bezeichnen.
+
+Für die Anzahl der Stufen wird die Variable $n$ verwendet.
+
+### Einstufiges Zufallsexperiment
+
+Wenn $n = 1$ bei dem Werfen einer Münze ist die [Ereignissmenge](#ergebnissmenge) wie folgt:
+
+$$K = Kopf \qquad Z = Zahl$$
+
+$$\Omega = \{K, Z\}$$
+
+### Mehrstufiges Zufallsexperiment
+
+Wenn $n=3$, bei gleichem Experiment, sieht die Ereignissmenge wie folgt aus:
+
+$$\Omega = \{K, Z\} \times \{K, Z\} \times \{K, Z\} =$$
+$$\{K-K-K, Z-Z-Z, K-Z-Z, K-Z-K, Z-K-K, Z-K-Z, K-K-Z, Z-Z-K\}$$
+
+# Wahrscheinlichkeit
+
+## relative/absolute Häufigkeit
+
+$$relative Häufigkeit = \frac{absolute Häufigkeit}{Anzahl der Versuche} \qquad h_n(A) = \frac{H_n(A)}{n}$$
+
+## Laplace Experiment
+
 # Bernoulli Kette der Länge n
 
 Wir betrachten eine Situation, bei der der Ausgand eine konstante Warscheinlichkeit hat. Dieses Event wird $n$ mal gemacht, und kein Event wird von dem vorherigen beeinflusst.

@@ -5,6 +5,8 @@ Begriff | Definition
 [**Isomer**](https://en.wikipedia.org/wiki/Isomer) | *gleiches Ding* $\rightarrow$ gleiche Summenformel, aber unterschiedliche Strukturformel
 Ebenes Molekühl | Das Molekühl *ist zweideminsional*
 hydrierung | An doppelbindungen wird Wasserstoff drangemacht
+cyclische Molekühle | ringförmige molekühle
+valenzelektronen | Ausenelektronen
 
 ## Substitution
 
