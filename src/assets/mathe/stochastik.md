@@ -44,7 +44,7 @@ $$\{K-K-K, Z-Z-Z, K-Z-Z, K-Z-K, Z-K-K, Z-K-Z, K-K-Z, Z-Z-K\}$$
 
 ## relative/absolute Häufigkeit
 
-$$relative Häufigkeit = \frac{absolute Häufigkeit}{Anzahl der Versuche} \qquad h_n(A) = \frac{H_n(A)}{n}$$
+$$relative Haeufigkeit = \frac{absolute Haeufigkeit}{Anzahl der Versuche} \qquad h_n(A) = \frac{H_n(A)}{n}$$
 
 ## Laplace Experiment
 
