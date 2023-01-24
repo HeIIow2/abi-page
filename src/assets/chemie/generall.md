@@ -7,6 +7,8 @@ Ebenes Molekühl | Das Molekühl *ist zweideminsional*
 hydrierung | An doppelbindungen wird Wasserstoff drangemacht
 cyclische Molekühle | ringförmige molekühle
 valenzelektronen | Ausenelektronen
+Formalladung | fake Ladungen wie zum Beispiel die Oxidationszahlen
+Ionenladung | Wird rechts oben bei der Summenformel hin gezeichnet
 
 ## Substitution
 

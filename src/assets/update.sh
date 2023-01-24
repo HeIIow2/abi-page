@@ -3,6 +3,7 @@ cp -a ./. /media/lars/Volume/Projekts/school/abi_page/src/assets/
 cp -a ./*/assets/ /media/lars/Volume/Projekts/school/abi_page/src/assets/
 cp -a ./mathe/assets/. ./assets/
 cp -a ./physik/assets/. ./assets/
+cp -a ./chemie/assets/. ./assets/
 
 
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o mathe/algebra.pdf mathe/algebra.md
@@ -12,6 +13,8 @@ pandoc --pdf-engine=xelatex -V geometry:margin=1in -o mathe/stochastik.pdf mathe
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/schwingungen.pdf physik/schwingungen.md
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/wellen.pdf physik/wellen.md
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/wellenoptik.pdf physik/wellenoptik.md
+
+pandoc --pdf-engine=xelatex -V geometry:margin=1in -o chemie/aromaten.pdf chemie/aromaten.md
 
 
 cp -a ./. /media/lars/Volume/Projekts/school/abi_page/src/assets/
