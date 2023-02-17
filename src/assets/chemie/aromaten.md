@@ -44,9 +44,9 @@ $$4 n + 2 = 16 \qquad 4n = 14 \qquad n = 3,5$$
 
 Wenn das gelößte $n$ zu den natürlichen Zahlen, oder 0 gehört, dann ist das Molekühl ein Aromat. 
 
-# Grenzformeln
+# Mesomere Grenzstruckturen
 
-Grenzformeln sind mehrere Strukturformeln des gleichen Molekühls, die mit einem Mesomeriepfeil abgegrenzt sind.
+**Grenzformeln** sind mehrere Strukturformeln des gleichen Molekühls, die mit einem Mesomeriepfeil abgegrenzt sind.
 
 ![Naptalin](assets/Naphthalene_resonance_structure.svg)
 
@@ -55,8 +55,33 @@ Grenzformeln sind mehrere Strukturformeln des gleichen Molekühls, die mit einem
  3. Grenzformeln ohne Ladungstrennung sind energetisch günstiger als Grenzformeln mit Ladungstrennung. 
  4. Grenzformeln, in denen alle Atome ein Elektronenoktett haben, sind günstiger als Grenzformen, in denen dies nicht gegeben ist.
 
+# Halogenierung von Benzok
+
+$$C_6H_6 + Br_2 \overset{FeBr_3}{\longrightarrow} C_6H_5Br + HBr_{(g)}$$
+
+## Reaktionsmechanismus 
+
+> Reaktionsmechanismus der elektrophilen aromatischen Substitution
+
+![https://www.volker-berg.de/Chemie/halbenz.htm](assets/halogenisierung_von_benzol.jpg)
+
+1. Elektrophiler Angriff und heterolytische Spaltung
+2. [Deprotonierung](#deprotonierung) und Rearomatisierung
+
+> $HBr$ ist ein saures Gas, und ist verantwortlich, das sich der Indikator von blau zu gelb gefärbt wurde.
+
+### Deprotonierung
+
+Deprotonierung ist die Abspalutung eines Protons ($H^+$)
+
+# Zusammenfassung
+
+Während Aromaten die Elektrophile Substitutionsreaktion eingehen, reagieren ungesättigte Kohlenwasserstoffe *(Alkene und Alkine)* mit der elektrophilen Addition ($A_E$).
+
 # Mögliche Arbeitaufgaben
 
 - Ein Molekül ist gegeben und wir müssen mithilfe der [Hückel-Regel](#hückel-regel) bestimmen, ob es ein Aromat ist
 - Begründe warum Brom und **Benzol** keine Addition am Benzolring vornimmt.
 - [Zeichne die mesomerie von <>](#zeichne-die-mesomerie-von)
+- Zeichnen Sie die Reaktionsmechanismus
+

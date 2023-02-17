@@ -4,6 +4,44 @@
  - [Abi 2021 (WTR) Pflichtteil 2 Aufgabe 6.b - Vektor (machbar)](https://www.schullv.de/mathe/pruefungswissen/baden_wuerttemberg/abi_2021/pflichtteil_2)
  - [Abi 2021 (WTR) Wahlteil A1 Aufgabe A 1.3 - unnötig komplex formuliert](https://www.schullv.de/mathe/pruefungswissen/baden_wuerttemberg/abi_2021/wahlteil_a1)
 
+# Bruchrechnen
+
+Das ist **ESSENZIELL**, und ich kann es immer noch nicht auswendig. ;-;
+
+## Addition
+
+$$\frac{a}{b} + \frac{c}{d} = \frac{ad + bc}{bd}$$
+
+1. Brüche auf einen gemeinsamen Nenner bringen.
+2. Zähler der Brüche addieren.
+3. Den Bruch kürzen.
+
+## Subtraktion
+
+$$\frac{a}{b} - \frac{c}{d} = \frac{ad - bc}{bd}$$
+
+ 1. Brüche auf einen gemeinsamen Nenner bringen.
+ 2. Zähler subtrahieren.
+ 3. Den Bruch kürzen.
+
+## Multiplikation
+
+$$\frac{a}{b} \cdot \frac{c}{d} = \frac{ac}{bd}$$
+
+ 1. Zähler multiplizieren.
+ 2. Nenner multiplizieren.
+ 3. Den Bruch kürzen.
+
+## Division
+$$\frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \cdot \frac{d}{c} = \frac{ad}{bc}$$
+
+ 1. Den Kehrbruch von einem der Brüche bilden.
+ 2. Die beiden Brüche [multiplizieren](#multiplikation).
+
+### Zum Beispiel:
+
+$$\frac{2}{3} \cdot \frac{5}{7} = \frac{2 \cdot 5}{3 \cdot 7} = \frac{10}{21}$$
+
 # Rechenoperationen
 
 ## Potenzen

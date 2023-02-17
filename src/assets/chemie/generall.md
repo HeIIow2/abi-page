@@ -3,12 +3,13 @@
 Begriff | Definition
 ---|---
 [**Isomer**](https://en.wikipedia.org/wiki/Isomer) | *gleiches Ding* $\rightarrow$ gleiche Summenformel, aber unterschiedliche Strukturformel
-Ebenes Molekühl | Das Molekühl *ist zweideminsional*
-hydrierung | An doppelbindungen wird Wasserstoff drangemacht
+Ebenes Molekühl | Das Molekühl *ist zweideminsional* $\rightarrow$ liegt auf einer Ebene
+hydrierung | An doppelbindungen wird Wasserstoff angehängt
 cyclische Molekühle | ringförmige molekühle
 valenzelektronen | Ausenelektronen
 Formalladung | fake Ladungen wie zum Beispiel die Oxidationszahlen
 Ionenladung | Wird rechts oben bei der Summenformel hin gezeichnet
+Deprotonierung | die Abspalutung eines Protons ($H^+$)
 
 ## Substitution
 

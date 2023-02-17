@@ -11,6 +11,7 @@
   - [Schnelle](#schnelle)
 - [Formeln](#formeln)
 - [Inteferenz](#inteferenz)
+  - [Phase und Phasendifferenz](#phase-und-phasendifferenz)
   - [Gangunterschied](#gangunterschied)
   - [Konstruktive Interferenz](#konstruktive-interferenz)
   - [Destruktive Inteferenz](#destruktive-inteferenz)
@@ -19,6 +20,8 @@
   - [$t$ - $s\_y$ - Diagramm an Ort $x\_0$](#t---s_y---diagramm-an-ort-x_0)
   - [$s\_x$ - $s\_y$ - Diagramm zum Zeitpunkt $t$](#s_x---s_y---diagramm-zum-zeitpunkt-t)
 - [Stehende Wellen](#stehende-wellen)
+  - [Schwingungsbauch](#schwingungsbauch)
+  - [Schwingungsknoten](#schwingungsknoten)
 
 # Terminologie
 
@@ -73,6 +76,19 @@ Bei der Inteferenz zweier Wellen schauen wir uns haupsächlich die Inteferenz zw
 
 Prinzipiell gilt aber unabhängig davon, dass wenn 2 Wellen aufeinandertreffen sich ihre Elongationen und [Schnellen](#schnelle) zusammenaddieren
 
+## Phase und Phasendifferenz
+
+Die Phase $\theta$ beschreibt, wo die Welle ist.
+Eine Strecke von der Wellenlänge entspricht somit einer Phase von $2\pi$. Berechnen lässt sich die Phase wiefolgt:
+
+$$\theta = 2\pi \cdot \frac{s}{\lambda}$$
+
+Wobei $[s] = 1m$ die zurückgelegte Strecke beschreibt.
+
+Die Phasendifferenz ist einfach die Differenz der Phasen zweier Wellen zu einem Zeitpunkt $t$.
+
+$$\phi = | \theta_1 - \theta_2 |$$
+
 ## Gangunterschied
 
 Die Verschiebung *auf der x-Achse* zweier Wellen nennt man Phasenunterschied.
@@ -125,4 +141,12 @@ Um eine Momentbild des Wellenträgers zu einem festen Zeitpunkt $t$ zeichnen zu 
 
 # Stehende Wellen
 
+Gegenläufige Wellen gleicher Frequenz und gleicher Amplitude liefern bei der Inerferenz vom Ort abhängige *(resultierende)* Zeigerlängen. Es bildet siche eine **stehende Welle** aus. Im Abstand einer halben Wellenlänge befinden sich **Schwingungsknoten** (Amplitude null). Im **Schwingungsbauch** zwischen benachbarten Knoten sind die Schwingungen in Phase.
 
+## Schwingungsbauch
+
+Der Punkt/[Oszillator](#oszillator) bei einer stehenden Welle bei dem die Elongation der Amplitude gleicht.
+
+## Schwingungsknoten
+
+Der Punkt/[Oszillator](#oszillator) bei einer stehenden Welle bei dem die Elongation gleich null ist.
