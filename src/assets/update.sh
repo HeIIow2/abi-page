@@ -10,6 +10,8 @@ pandoc --pdf-engine=xelatex -V geometry:margin=1in -o mathe/algebra.pdf mathe/al
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o mathe/analysis.pdf mathe/analysis.md
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o mathe/stochastik.pdf mathe/stochastik.md
 
+pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/grundlagen.pdf physik/grundlagen.md
+pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/elektrik.pdf physik/elektrik.md
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/schwingungen.pdf physik/schwingungen.md
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/wellen.pdf physik/wellen.md
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/wellenoptik.pdf physik/wellenoptik.md

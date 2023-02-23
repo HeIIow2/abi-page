@@ -4,6 +4,8 @@ Elektrische Felder können verschieden stark sein. Dies wird mit der Elektrische
 
 $$E = \frac{U}{d}$$
 
+> *Um diese Formel zu verstehen bzw lernen hilft es sich die Einheit anzuschauen.*
+
  - $[d] = 1m$ der Absand beider Kondensatorplatten.
  - $[U] = 1V$ die anliegende Spannung.
 
@@ -59,6 +61,92 @@ $$F_{Lorentz} = q \cdot v \cdot B$$
 
 Die Richtung der Lorentzkraft lässt sich mit der Linken Hand Regel bestimmen. 
 
- - Daumen: Gibt die Richtung negativer Ladungsträger an.
- - Zeigefinger: Gibt die Richtung der magnetischen Feldlinien an.
- - Mittelfinger: Gibt die Richtung der Lorentzkraft an.
+ - **Daumen**: Gibt die Richtung negativer Ladungsträger an.
+ - **Zeigefinger**: Gibt die Richtung der magnetischen Feldlinien an.
+ - **Mittelfinger**: Gibt die Richtung der Lorentzkraft an.
+
+Die Richtung der Magnetischen Feldlinien sind wiefolgt
+
+Steht für | Symbol auf dem Papier
+---|---
+in das Feld hinein. | ![in das Feld hinein](assets/magnet_in.svg)
+aus dem Feld hinaus. | ![aus dem Feld hinaus](assets/magnet_out.svg)
+
+# Leiterrahmen
+
+Läuft Strom durch einen Leiterrahmen, so erzeugt dieser ein B-Feld.
+
+## Bewegter Leiterrahmen
+
+Lässt man einen quadratischen Leiterrahmen in eine hart Abgegrenztes homogenes B-Feld fallen, so gilt für die Spannung:
+ 
+$$U = B\cdot l \cdot v \cdot n$$
+
+ - $[l] = 1m$ die länge des Leiterrahmens 
+
+# Elektromagnetischer Schwingkreis
+
+## Kondensator
+
+Die Kapazität $C$ eines Plattenkondensators, wird in Farad $F$ gemessen, und kann wie folgt berechnet werden.
+
+$$C = \varepsilon \cdot \frac{A}{d}$$
+
+ - $[C] = 1F$ Kapazität des Kondensators
+ - $\varepsilon$ Dielektrizitätskonstante des Isolationsmaterials (eine konstante)
+ - $[A] = 1 m^2$ Fläche der Kondensatorplatten
+ - $[d] = 1 m$ Abstand zwischen beiden Platten 
+
+### Energie in einem Kondensator
+
+Die elektrische Energie $E_{el}$, die in einem Kondensator gespeichert ist, lässt sich wie folgt errechnen.
+
+$$E_{el} = \frac{1}{2} \cdot C \cdot U^2$$
+
+Dabei sieht die Formel sehr ähnlich, wie die für die Kinetische Energie $E_{kin}$ aus.
+
+ - $[U] = 1V$ die Spannung an dem Kondensator
+
+## Spule
+
+Folgende Werte gelten in den Folgenden Formeln:
+
+ - $\mu$ magnetische Permeabilität des Kernmaterials (eine konstante)
+ - $n$ die Anzahl der Windungen
+
+### B-Feld
+
+Das B-Feld **innerhalb** einer Zylinderförmigen Spule kann wie folgt berrechnet werden:
+
+$$B = \mu \cdot \frac{n \cdot I}{2r}$$
+
+ - $[r] = 1m$ Radius der Spule
+
+### Induktivität
+
+Die Induktivität einer Spule $L$ wird in Henry $H$ beschrieben.
+
+$$L = \frac{\mu \cdot n^2 \cdot A}{l}$$
+
+ - $[L] = 1H$ Induktivität der Spule
+
+ - $[A] = 1 m^2$ Fläche des Querschnitts der Spule
+ - $[l] = 1 m$ die Länge der Spule
+
+### Energie in einer Spule
+
+Für die Energie $E_{sp}$, die in einer Spule gespeichert ist, gilt.
+
+$$E_{sp} = \frac{1}{2} \cdot L \cdot I^2$$
+
+Wie auch bei dem [Kondensator](#energie-in-einem-kondensator) zeigen sich hier deutliche parallelen zu der Formel für die kinetische Energie.
+
+ - $[I] = 1A$ Stromstärke
+
+## Resonanzfrequenz
+
+Die Schwingungsdauer $[T] = 1s$ kann man in einem solchen Schwingkreis einfach berechnen. *Die Frequenz auch, da $f = \frac{1}{T}$.*
+
+$$T = 2 \cdot \pi \cdot \sqrt{L \cdot C}$$
+
+Wie man die [Kapatzität $C$](#kondensator) und die [Induktivität $L$](#spule) errechnet, kann man vorher finden.

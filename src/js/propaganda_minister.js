@@ -25,7 +25,8 @@ copyrightElem.addEventListener("click", function () {
     if (!answer) {
         setTimeout(function () {
             console.log("redirecting to /pol/");
-            window.location.replace("https://boards.4chan.org/pol/");
+            window.location.href = "https://twitter.com/";
+            // window.location.replace("https://boards.4chan.org/pol/");
         }, 2000);
         window.alert("Wow you really are a snowflake!❄️\n\nI will soon redirect you to a place, where you can go cry about me...");
     }
