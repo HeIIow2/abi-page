@@ -2,8 +2,11 @@
 
 Bezeichnung | Beispiel | Potenz
 ---|---|---
+Kilo | $kT$ | $10^{3}$
+Centi | $cT$ | $10^{-2}$
 Milli | $mT$ | $10^{-3}$
 Mikro | $\mu T$ | $10^{-6}$
+Nano | $nT$ | $10^{-9}$
 
 # Energieerhaltungssatz
 

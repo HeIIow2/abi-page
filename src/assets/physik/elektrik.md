@@ -92,8 +92,8 @@ $$U_{ind} = -n \cdot \dot{\Phi}= -n \cdot B \cdot \dot{A}$$
 
 ## Induzierte Lorentzkraft
 
-Wird der Leiterrahmen mit einem Wiederstand $R$ kurzgeschlossen, so fließt ein Induktionsstrom von $I = \frac{U}{R}$.  
-Mit diesem Induktionsstrom lässt sich dann die Induzierte Lorentzkraft berrechnen. 
+Wird der Leiterrahmen mit einem Widerstand $R$ kurzgeschlossen, so fließt ein Induktionsstrom von $I = \frac{U}{R}$.  
+Mit diesem Induktionsstrom lässt sich dann die Induzierte Lorentzkraft berechnen. 
 
 $$F_{Lorentz} = I \cdot B \cdot l \cdot n$$
 
@@ -111,6 +111,12 @@ $$C = \varepsilon \cdot \frac{A}{d}$$
  - $\varepsilon$ Dielektrizitätskonstante des Isolationsmaterials (eine konstante)
  - $[A] = 1 m^2$ Fläche der Kondensatorplatten
  - $[d] = 1 m$ Abstand zwischen beiden Platten 
+
+### Ladung eines Kondensators
+
+Die Ladung eines Kondensators $Q$ ist Proportional zu der Spannung $U$ und Kapazität $C$.
+
+$$Q = C \cdot U$$
 
 ### Energie in einem Kondensator
 
