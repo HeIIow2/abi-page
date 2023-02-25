@@ -76,13 +76,28 @@ aus dem Feld hinaus. | ![aus dem Feld hinaus](assets/magnet_out.svg)
 
 Läuft Strom durch einen Leiterrahmen, so erzeugt dieser ein B-Feld.
 
-## Bewegter Leiterrahmen
+## Magnetischer Fluss
 
-Lässt man einen quadratischen Leiterrahmen in eine hart Abgegrenztes homogenes B-Feld fallen, so gilt für die Spannung:
- 
-$$U = B\cdot l \cdot v \cdot n$$
+Der magnetische Fluss in einem Leiterrahmen $\Phi$ kann man sich als die Anzahl der magnetischen Feldlinien in dem Leiterrahmen vorstellen. Folglich kann man diesen einfach berechnen, indem man die Fläche mit dem B-Feld Multipliziert.
 
- - $[l] = 1m$ die länge des Leiterrahmens 
+$$\Phi = A \cdot B$$
+
+## Induktionspannung
+
+Ändert sich der [Magnetische Fluss](#magnetischer-fluss) des durchsetzten Leiterrahmens, so wird eine Spannung $U_{ind}$ induziert.
+
+$$U_{ind} = -n \cdot \dot{\Phi}= -n \cdot B \cdot \dot{A}$$
+
+- $n$ Windungszahl
+
+## Induzierte Lorentzkraft
+
+Wird der Leiterrahmen mit einem Wiederstand $R$ kurzgeschlossen, so fließt ein Induktionsstrom von $I = \frac{U}{R}$.  
+Mit diesem Induktionsstrom lässt sich dann die Induzierte Lorentzkraft berrechnen. 
+
+$$F_{Lorentz} = I \cdot B \cdot l \cdot n$$
+
+- $[l] = 1m$ Länge des relevanten Leiters.
 
 # Elektromagnetischer Schwingkreis
 
