@@ -1,12 +1,14 @@
 # Einheiten
 
-Bezeichnung | Beispiel | Potenz
+Bezeichnung | Abkürzung | Potenz
 ---|---|---
-Kilo | $kT$ | $10^{3}$
-Centi | $cT$ | $10^{-2}$
-Milli | $mT$ | $10^{-3}$
-Mikro | $\mu T$ | $10^{-6}$
-Nano | $nT$ | $10^{-9}$
+Giga | $g$ | $10^{9}$
+Kilo | $k$ | $10^{3}$
+Centi | $c$ | $10^{-2}$
+Milli | $m$ | $10^{-3}$
+Mikro | $\mu$ | $10^{-6}$
+Nano | $n$ | $10^{-9}$
+Piko | $p$ | $10^{-12}$
 
 # Energieerhaltungssatz
 
