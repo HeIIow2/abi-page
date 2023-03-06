@@ -250,3 +250,15 @@ Quantenobjekte besitzen sowohl Wellen, als auch Teilchencharakter. Kann bei mehr
 *neu*: Elektronen sollten auch Wellencharakter besitzten mit einer Wellenlänge.
 
 $$\lambda(U_B) = \frac{h}{\sqrt{2qm}} \cdot \frac{1}{\sqrt{U_B}} = 1,23\cdot 10^{-9}mv^{\frac{1}{2}} \cdot \frac{1}{\sqrt{U_B}}$$
+
+# Die Heisenbergsche Unbestimmtheitsrelation
+
+Die Heisenbergsche Unbestimmtheitsrelation ist ein Prinzip der Quantenphysik, das besagt, dass man den Ort und den Impuls eines Teilchens nicht gleichzeitig beliebig genau bestimmen kann12. Das Produkt aus Orts- und Impulsunbestimmtheit hat eine untere Grenze1:
+
+$$\Delta x \cdot \Delta p_x = h$$
+
+- $\Delta x$ die Ortsunschärfe
+- $\Delta p_x$ die Impulsunschärfe
+- $h$ das planksche wirkungsquantum
+
+

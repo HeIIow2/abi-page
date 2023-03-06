@@ -103,6 +103,8 @@ $$F_{Lorentz} = I \cdot B \cdot l \cdot n$$
 
 ## Kondensator
 
+[für Elektrische Felder, siehe "Elektrische Felder"](#elektrische-felder)
+
 Die Kapazität $C$ eines Plattenkondensators, wird in Farad $F$ gemessen, und kann wie folgt berechnet werden.
 
 $$C = \varepsilon \cdot \frac{A}{d}$$

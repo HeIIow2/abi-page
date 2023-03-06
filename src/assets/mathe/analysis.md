@@ -119,7 +119,11 @@ $$f(x) = u(v(x)) \qquad f'(x) = u'(v(x)) \cdot v'(x)$$
 
 ### Beispiele
 
- - $f(x) = x^2 \cdot e^{-5x} \qquad f'(x) = 2x \cdot e^{-5x} + x^2 \cdot \left( -5e^{-5x} \right)$
+- $f(x) = x^2 \cdot e^{-5x} \qquad f'(x) = 2x \cdot e^{-5x} + x^2 \cdot \left( -5e^{-5x} \right)$
+  
+## Quotientenregel
+
+$$f(x) = \frac{u(x)}{v(x)} \qquad f'(x) = \frac{u(x) \cdot v'(x) + u'(x) \cdot v(x)}{[v(x)]^2}$$
 
 ## Hilfreiches Umstellen
 
@@ -300,3 +304,38 @@ Möchte man den Flächeninhalt berechnen von 2 Funktionen in einem bestimmten In
 $$\int_k^n \left(g(x) - f(x)\right) dx = \Big[ G(x) - F(x) \Big]_k^n = (G(n) - F(n)) - (G(k) - F(k))$$
 
 Hier ist es besonders sinnvoll zu vereinfachen wo man kann, sonst wird es sehr schnell zu komplex.
+
+
+# Gebrochen Rationale Funktionen
+
+Es geht hier um folgende Funktionen:
+
+$$f(x) = \frac{u(x)}{v(x)}$$
+
+- $u(x)$: Zähler
+- $v(x)$: Nenner
+
+## Asymptoten
+
+### Polgeraden
+
+Die Polgerade ist ein Sonderfall der Asymptoten. Diese Asymptoten sind senkrecht, und beschreiben eine Definitionslücke. Somit kann man diese finden wenn man den Nenner gleich $0$ setzt, weil *division by 0*.
+
+1. $v(x_i) = 0$ den Nenner gleich Null setzten
+2. Die Polgerade ist: $x = x_i$
+
+### *die* Asymptote
+
+Die anderen Asymptoten, die die nicht Senkrecht sind, kann man mit der [Polynomdivision](#polynomdivision) finden. Man kann aber keine Polgerade damit finden.
+
+$$u(x) : v(x) = A(x) + \frac{r(x)}{v(x)}$$
+
+wobei die Asymptote $y = A(x)$ ist.
+
+$\frac{r(x)}{v(x)}$ ist der Rest, bei dem der [Grad](#grad) von $r(x)$ kleiner als der Grad von $v(x)$ ist.
+
+## Grad
+
+Der Grad bezeichnet die höchste Potenz in einer Funktion.
+
+## Polynomdivision
