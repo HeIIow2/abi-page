@@ -159,7 +159,7 @@ $$\sigma = \sqrt{Var(X)}$$
 [hier ein Video wie man das mit unserem Taschenrechner macht](https://yt.artemislena.eu/watch?v=50md1ECU-_s)
 
 
-<iframe width=100% src='https://yt.artemislena.eu/embed/50md1ECU-_s' frameborder='0' allowfullscreen></iframe>
+<iframe width="560" height="315" title="YouTube video player" src='https://yt.artemislena.eu/embed/50md1ECU-_s' frameborder='0' allowfullscreen></iframe>
 
 
 Die Binomialverteilung ist eine Wahrscheinlichkeitsverteilung, die beschreibt, wie wahrscheinlich es ist, dass bei einer bestimmten Anzahl von unabhängigen, wiederholten Experimenten mit genau zwei möglichen Ergebnissen *(z.B. Erfolg/Misserfolg, Kopf/Zahl)* ein bestimmter Erfolg eintritt.
