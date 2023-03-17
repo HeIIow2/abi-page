@@ -168,6 +168,14 @@ Die Wahrscheinlichkeit, dass genau $k$ Erfolge in $n$ Versuchen auftreten, kann 
 
 $$B_{n, p}(k) = P(k = n) = \binom{n}{k} \cdot p^k \cdot (1-p)^{n-k}$$
 
+> Kann man mit dem Taschenrechner berrechnen:
+
+```
+2nd + data
+right (distr)
+4/5 (Binomial pdf-cdf/)
+```
+
 ## Binomialkoeffizient
 
 Der Binomialkoeffizient $\binom{n}{k}$ die Anzahl der möglichen Kombinationen von $k$ Erfolgen aus $n$ Versuchen darstellt. Man berechnet ihn wie folgt:

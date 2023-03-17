@@ -15,6 +15,7 @@ pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/elektrik.pdf physik
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/schwingungen.pdf physik/schwingungen.md
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/wellen.pdf physik/wellen.md
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/wellenoptik.pdf physik/wellenoptik.md
+pandoc --pdf-engine=xelatex -V geometry:margin=1in -o physik/quantenphysik.pdf physik/quantenphysik.md
 
 pandoc --pdf-engine=xelatex -V geometry:margin=1in -o chemie/aromaten.pdf chemie/aromaten.md
 

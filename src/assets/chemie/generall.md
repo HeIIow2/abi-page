@@ -143,3 +143,20 @@ Der isoelektrische Punkt (auch IEP, iP, pI oder pH I genannt) ist der pH-Wert, a
 ## Isoelektrischer Punkt
 
 Das Molekühl ist am isoelektrischen Punkt, wenn es gleich viele Positive wie negative Ladung aufnimmt.
+
+# Elektronegativität
+
+Die Elektronegativität ist das maß, wie sehr ein Atom Elektronen anzieht.
+
+- Je weiter rechts in dem Periodensystem das Atom ist, desto mehr Protonen hat es, und desto besser zieht es Elektronen an. => Die Elektronegativität ist höher
+- Je weiter unten die Atome im Periodensystem sind, desto mehr Elektronen hat es, und desto schlechter zieht es Elektronen an. => Die Elektronegativität ist niedriger.
+
+## Polare/Unpolare Bindung
+
+Wenn ein Element mit geringer Elektronegativität und ein Element mit hoher in einem Molekühl ist, dann zieht das Element mit der höheren Elektronegativität die Elektronen an. So entsteht eine Polare Atombindung *(die Ladungen sind ungleich verteilt)*.
+
+Ist die Elektronegativität zweier Atom in einer Bindung gleich *(bzw. ähnlich)*, dann ist die Bindung unpolar.
+
+> Ähnliche Wechselwirkungen, lößen ähnliche Wechselwirkungen.
+
+> Ein Stoff der sich in einem anderen lößt, wermischt sich in dem anderen.
