@@ -1,13 +1,21 @@
 # Elektrische Felder
 
-Elektrische Felder können verschieden stark sein. Dies wird mit der Elektrischen Feldstärke $[E] = 1 \frac{V}{m}$ beschrieben, die sich wie folgt errechnet:
+Die elektrischen Feldlinien gehen von + nach -  
+`(+) -------> (-)`  
+Sie treffen auch orthogonal auf Metaloberfläche.
+
+Elektrische Felder können verschieden stark sein. Dies wird mit der Elektrischen Feldstärke $E$ beschrieben, die sich wie folgt errechnet:
 
 $$E = \frac{U}{d}$$
 
+$$[E] = 1 \frac{N}{C} = 1 \frac{V}{m}$$
+
 > *Um diese Formel zu verstehen bzw lernen hilft es sich die Einheit anzuschauen.*
 
- - $[d] = 1m$ der Absand beider Kondensatorplatten.
+ - $[d] = 1m$ der Abstand beider Kondensatorplatten.
  - $[U] = 1V$ die anliegende Spannung.
+
+Die andere einheit $\frac{N}{C}$ wird mit der [Elektrischen Kraft](#elektrische-kraft) erklärt, bzw. entspricht der Formel.
 
 ## Elektrische Kraft
 
@@ -18,7 +26,24 @@ $$F_{el} = q \cdot E \qquad E = \frac{q}{F_{el}}$$
  - $[q] = 1C$ die Ladung des Teilchens
 
 
+## Flächenladungsdichte
+
+Die Flächenladungsdichte $\sigma$ beschreibt die Ladung auf einer bestimmten Fläche. Somit gilt:
+
+$$\sigma = \frac{Q}{A}$$
+
+### Herleitung der Kapazität eines Plattenkondensators
+
+$$\sigma = \frac{Q}{A} = \varepsilon_0 E = \varepsilon_0 \cdot \frac{U}{d}$$
+
+
+$$Q = C \cdot U \qquad C = \Epsilon_0 \cdot \frac{A}{d}$$
+
+$$Q = \Epsilon_0 \cdot \frac{A}{d} \cdot U$$
+
 # Magnetische Felder
+
+Sie verlaufen auserhalb des Magnets von Nord nach Süd, innerhalb von Süd nach nord.
 
 Eine Spule, durch die Strom fliest, erzeugt ein B-Feld.
 
@@ -105,9 +130,11 @@ $$F_{Lorentz} = I \cdot B \cdot l \cdot n$$
 
 [für Elektrische Felder, siehe "Elektrische Felder"](#elektrische-felder)
 
+Für die [Flächenladungsdichte](#flächenladungsdichte) der Kondensatorplatten gilt zusätzlich zu $\sigma = \frac{Q}{A}$ die Formel $\sigma = \varepsilon_0 \cdot E$. Wenn man diese gleichsetzt kann man somit die Formel für die Kapazität eines Kondensators herleiten.
+
 Die Kapazität $C$ eines Plattenkondensators, wird in Farad $F$ gemessen, und kann wie folgt berechnet werden.
 
-$$C = \varepsilon \cdot \frac{A}{d}$$
+$$C = \varepsilon_0 \cdot \frac{A}{d}$$
 
  - $[C] = 1F$ Kapazität des Kondensators
  - $\varepsilon$ Dielektrizitätskonstante des Isolationsmaterials (eine konstante)
@@ -124,11 +151,15 @@ $$Q = C \cdot U$$
 
 Die elektrische Energie $E_{el}$, die in einem Kondensator gespeichert ist, lässt sich wie folgt errechnen.
 
-$$E_{el} = \frac{1}{2} \cdot C \cdot U^2$$
+$$W_{el} = \frac{1}{2} \cdot C \cdot U^2 = \frac{1}{2} \cdot Q \cdot U = \frac{1}{2} \frac{Q^2}{C}$$
 
 Dabei sieht die Formel sehr ähnlich, wie die für die Kinetische Energie $E_{kin}$ aus.
 
  - $[U] = 1V$ die Spannung an dem Kondensator
+
+### Entladen eines Kondensators
+
+![](assets/geogebra-export.png)
 
 ## Spule
 
@@ -173,3 +204,17 @@ Die Schwingungsdauer $[T] = 1s$ kann man in einem solchen Schwingkreis einfach b
 $$T = 2 \cdot \pi \cdot \sqrt{L \cdot C}$$
 
 Wie man die [Kapatzität $C$](#kondensator) und die [Induktivität $L$](#spule) errechnet, kann man vorher finden.
+
+# Induktion
+
+$$U_{ind} = - n \cdot \dot \varPhi$$
+
+$$\varPhi = B \cdot A$$
+
+$$\Delta A = b \cdot \Delta s = b \cdot v \cdot \Delta t$$
+
+$$\dot A = b \cdot v$$
+
+$$U_{ind} = -n \cdot B \cdot b \cdot v$$
+
+S. 96

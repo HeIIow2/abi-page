@@ -231,3 +231,20 @@ $$F(x) = P(X \leq x) = \int_{-\infty}^{x} f(t) dt$$
 Die inverse kumulierte Verteilungsfunktion (Inverse `CDF` oder Quantilfunktion) gibt den Wert an, bei dem die Verteilungsfunktion $F(x)$ einen bestimmten Wert $p$ annimmt. Diese Funktion wird oft verwendet, um kritische Werte für Hypothesentests zu berechnen und wird durch den Buchstaben $z_\alpha$ oder $t_{n-1, \alpha}$ bezeichnet, je nachdem, ob es sich um eine Normalverteilung oder eine t-Verteilung handelt.
 
 In der Standardnormalverteilung wird die Inverse `CDF` als Standardnormalverteilungstabelle dargestellt, die die Wahrscheinlichkeiten für bestimmte Bereich zwischen $-\infty$ und $z_\alpha$ listet.
+
+# Signifikanztests
+
+## Aufgabe
+
+Bei einem Spielautomaten wird vermutet, dass die Gewinnwahrscheinlichkeit $p$ größer als $10\%$ ist. Die Vermutung wird mit Hilfe eines Hypothesentests mit einem Stichprobenumfang von $n=200$ und einem **Signifikanzniveau** von $5\%$ getestet.  
+Als **Nullhypothese** wird $H_0: p \geq 0,1$ gewählt.  
+
+1. Formuliere eine **Entscheidungsregel**.
+
+Tatsächlich gilt $p= 0,08$.  
+
+2. Bestimme die Wahrscheinlichkeit für den **Fehler zweiter Art**.
+
+### Formulierung der Entscheidungsregel
+
+Wenn weniger als 13 Spiele gewonnen werden, wird die Nullhypothese abgelehnt. Ansonsten kann die Nullhypothese nicht abgelehnt werden.
