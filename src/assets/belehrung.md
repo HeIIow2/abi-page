@@ -69,7 +69,5 @@
 
 ## Zu spät kommen
 
-
-
 - Ohne Grund kann man dan nicht mitschreiben
 
